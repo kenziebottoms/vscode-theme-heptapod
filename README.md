@@ -1,4 +1,4 @@
-# Arrival
+# Heptapod
 
 ![Heptapod](arrival.png)
 
