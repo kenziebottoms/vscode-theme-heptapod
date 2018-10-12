@@ -1,4 +1,4 @@
-# Replicant
+# Arrival
 
 ![Heptapod](arrival.png)
 
@@ -34,5 +34,3 @@
 ---
 
 > _Sample code stolen from https://highlightjs.org/_
-
-> _Palette screenshot stolen from https://coolors.co_
