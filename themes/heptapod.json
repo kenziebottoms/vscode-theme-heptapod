@@ -158,7 +158,7 @@
 		"terminal.ansiBrightMagenta": "#6ebee6",
 		"terminal.ansiBrightCyan": "#f9d6d6",
 		"terminal.ansiBrightWhite": "#f7f7f7",
-		"gitDecoration.modifiedResourceForeground": "#bfe6f7",
+		"gitDecoration.modifiedResourceForeground": "#e3ae7b",
 		"gitDecoration.untrackedResourceForeground": "#c0c98f",
 		"gitDecoration.ignoredResourceForeground": "#829096",
 		"gitDecoration.conflictingResourceForeground": "#cd8062",
@@ -873,6 +873,23 @@
 			}
 		},
 		{
+			"name": "CSS Property Names",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#f7f7f7"
+			}
+		},
+		{
+			"name": "CSS Property Values",
+			"scope": [
+				"meta.property-value.scss",
+				"meta.property-value.scss support.type.property-name.css"
+			],
+			"settings": {
+				"foreground": "#bfe6f7"
+			}
+		},
+		{
 			"name": "Elixir Classes",
 			"scope": [
 				"source.elixir support.type.elixir",
@@ -1260,6 +1277,16 @@
 			],
 			"settings": {
 				"foreground": "#6ebee6"
+			}
+		},
+		{
+			"name": "SASS Support Functions",
+			"scope": [
+				"support.function.misc.scss",
+				"support.function.misc.sass"
+			],
+			"settings": {
+				"foreground": "#f9d6d6"
 			}
 		},
 		{
