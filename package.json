@@ -2,7 +2,7 @@
   "name": "heptapod",
   "displayName": "Heptapod Theme",
   "description": "An Arrival-inspired theme for VS Code",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "kenziebottoms",
   "engines": {
     "vscode": "^1.28.0"
